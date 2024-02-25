@@ -1,0 +1,13 @@
+Provide an overview of the data structure
+
+Generate a table with all customers in Germany who received discount larger than 10%
+
+For each country, find the biggest customer (by total cumulative sales value) and show average discount they get on their orders
+
+Show the same, but in a table format sorted by discount (from highest to lowest). Additionally, include only EU countries in the table.
+
+Based on the data, generate a chart showing the number of orders by country and by year
+
+Great. now create a chart showing trends in quarterly total sales by product category
+
+Our relationship manager is visiting Finland. He will visit all customers in the country. Which airport he should go to. Suggest a reasonable driving route based on cities where the customers are located.
