@@ -1,0 +1,21 @@
+{
+  "name": "find_use_case",
+  "description": "Describe potential use cases and benefits of IoT specificially for the provided manufacturing company.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "company_name": {
+        "type": "string",
+        "description": "Name of the company."
+      },
+      "IoT_use_and_benefits": {
+        "type": "string",
+        "description": "Description of likely or possible use cases of IoT for the company. Also, you must provide an overview of potential benefit from the perspective of the company's manufacturing activity. Answer should be 4-6 sentences long."
+      }
+    },
+    "required": [
+      "company_name",
+      "IoT_use_and_benefits"
+    ]
+  }
+}
