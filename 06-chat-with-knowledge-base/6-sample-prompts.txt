@@ -1,0 +1,5 @@
+What's the difference between public vs. private channels in Slack?
+
+How to share in Slack information that won’t fit in a simple message?
+
+What are the best use cases for canvas in Slack?
