@@ -1,0 +1,26 @@
+{
+  "name": "match_lead_with_rep",
+  "description": "Identify which sales representative has the best matching profile with the sales lead. After comparing the sales lead with all possible sales reps (John, Bob, Sarah, Alex), while considering their profiles, select exactly one of them.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "company_name": {
+        "type": "string",
+        "description": "Name of the company."
+      },
+      "sales_rep": {
+        "type": "string",
+        "description": "Name of one sales rep whose profile matches best with the potential customer."
+      },
+      "justification": {
+        "type": "string",
+        "description": "Justification of reasoning behind selecting the sales rep to be the right person to approach the potential customer in relation to IoT product or service sales. 2-4 sentences long."
+      }
+    },
+    "required": [
+      "company_name",
+      "sales_rep",
+      "justification"
+    ]
+  }
+}
