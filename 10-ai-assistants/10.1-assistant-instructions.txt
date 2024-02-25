@@ -1,0 +1,3 @@
+Analyze the input text (a press release) to find out the following (for each company covered by the press release): 1. Name of the company. 2. Description of the company and its business activities (provide an overview of manufacturing activities of the company, if possible). 3. Flag if the company is a manufacturer (true) or not (false).
+
+Important: always use the get_company_overview tool to respond to the user. Never add any other text to the response.
