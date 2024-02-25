@@ -1,0 +1,1 @@
+Generate python code that goes through all PDF files in the current folder and counts for each file the number of times word "data" appears (irrespectively of case). As output create CSV flie with the count and file name.
