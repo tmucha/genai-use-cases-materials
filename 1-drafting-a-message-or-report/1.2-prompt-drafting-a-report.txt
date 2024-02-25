@@ -1,0 +1,12 @@
+Create a draft of a brief report for my management team on the recent developments in our supply chain. Include the following points:
+1. Extreme weather conditions:
+- several delays
+- the mitigation actions resulted in meeting the delivery timelines promissed.
+2. Two of our major logistics service providers are merging together:
+- No immediate consequences
+- Increased concentration and lower barganing power
+- Identifying an alternative LSP to add to our portfolio.
+3. New purchase order approval tool migration:
+- progressing smoothly.
+
+Use casual business language. Include headings. Each paragraph should be 4-6 sentences long.
