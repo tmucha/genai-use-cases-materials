@@ -1,0 +1,5 @@
+Find the following details in this document: PO number, supplier name, supplier location, and type of goods purchased.
+
+Search the latest news about the supplier specified in this PO and news related to the location (country and city/town) of the suppliers’ facility. In case there are any emerging risks that could impact the delivery, provide a brief summary of risks and reasoning behind.
+
+Draft an email identifying concerns and asking about the ability of the supplier to fulfil the delivery under this PO.
