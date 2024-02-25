@@ -1,0 +1,9 @@
+Summarize the following document https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/NQA-ISO-9001-Implementation-Guide.pdf
+
+
+##############################
+# Or if you are using Gemini, have Workspace extension activated,
+# and have the file you want to summarize in your Google Drive.
+##############################
+
+summarize ISO-9001-Implementation-Guide.pdf from my drive
