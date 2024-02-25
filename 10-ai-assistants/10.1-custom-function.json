@@ -1,0 +1,42 @@
+{
+  "name": "get_company_overview",
+  "description": "Identify key companies mentioned in the press release, provide an overview of their business, and identify if they engage in manufacturing.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "companies": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "company_name": {
+              "type": "string",
+              "description": "The name of the company."
+            },
+            "company_description": {
+              "type": "string",
+              "description": "Description of company and its activities, especially manufacturing activities. The description must be 2-4 sentences long."
+            },
+            "is_manufacturer": {
+              "type": "boolean",
+              "description": "True if the company is likely to engage in some form of manufacturing, otherwise false."
+            }
+          },
+          "required": [
+            "company_name",
+            "company_description",
+            "is_manufacturer"
+          ]
+        }
+      },
+      "identified_manufacturer": {
+        "type": "boolean",
+        "description": "False, if all identified companies are not manufacturers. Otherwise True, if at least one manufacturing company is identified."
+      }
+    },
+    "required": [
+      "identified_manufacturer",
+      "companies"
+    ]
+  }
+}
