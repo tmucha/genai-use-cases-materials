@@ -1,0 +1,1 @@
+In this example, I do not rely on any extra files or code. If you want to test out the two alternative interfaces of Zapier, you need to create an account there first (free plan is okay).
