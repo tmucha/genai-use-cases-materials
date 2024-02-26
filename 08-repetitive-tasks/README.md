@@ -9,3 +9,5 @@ Please, remember that you need OpenAI API key to use the user deifned function.
 
 ## Example 3: Generating a report based on online feedack responses
 You can find the sample feedback answers here: https://docs.google.com/spreadsheets/d/1HfhQNpbn9hmpDv2cqu5-7r55pcOTv1qRYBhtpbI9_TQ/edit?usp=sharing
+
+This contnet is a supplementary material to the following video series: https://www.youtube.com/playlist?list=PLARy1wbnxR78PPerOgwx6XjN1MEBow8Wt
